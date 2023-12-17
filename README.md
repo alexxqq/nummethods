@@ -1,3 +1,0 @@
-Numerical methods
-
-tasks
